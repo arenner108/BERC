@@ -1,0 +1,103 @@
+---
+title: "Black Earth Restoration Network"
+subtitle: "Short section on what the network/project is, what this website is, etc. "
+css: styles.css
+---
+
+#### Name Choice
+
+Why did we chose the name for this website?
+
+#### Purpose
+
+Maybe we want a little section on what the website is here too? A bit longer than the subtitle above.
+
+#### Our Team
+
+::: {style="text-align: left"}
+**Dr. Alicia Foxx** (she/her)\
+**Chicago Botanic Gardens & Northwestern University**\
+[Website](https://aliciafoxx.github.io/) \| [Publications](https://scholar.google.com/citations?user=nlWrL0YAAAAJ&hl=en)
+:::
+
+![](images/foxx.jpeg){style="float: left; margin: 0px 15px 0px 0px;" fig-alt="headshot of Dr Alicia Foxx" fig-align="left" width="200"}
+
+I am a child of the Black community, and I believe in respect, reciprocity, community and support, among other things. I work to bring equity, inclusion, accessibility, and social justice for historically minoritized people including Black, Indigenous, Latine, and other People of Color. My aim is to ensure that we all have a seat at the proverbial table, because it is the right thing to do. By training, I am a plant ecologist and I study how variation in plant traits influences how plants interact with each other, with their environment, and with microbes. A large part of my research is related to applications in restoration science and practice and I incorporate experimental research and synthesis to interrogate and improve our understanding of plants and their secrets.\
+
+\
+
+::: {style="text-align: left"}
+**Dr. Becky Barak**\
+**Northwestern University**\
+[Website](BeckyBarak.com) \| Publications \| [ResearchGate](https://www.researchgate.net/profile/Rebecca-Barak)
+:::
+
+![](images/barak.jpeg){style="float: left; margin: 0px 15px 0px 0px;" fig-alt="headshot of Dr Becky Barak" fig-align="left" width="200"}
+
+Dr. Becky Barak information information information information information information information information information information information information information information information information information information information information information information information information information information information information information information information information information information information information information information information information information information .
+
+\
+
+::: {style="text-align: left"}
+**Regina Mae Francia** (pronouns)\
+**Affiliation**\
+:::
+
+\
+
+::: {style="text-align: left"}
+**Sarah Hollis** (pronouns)\
+**Affiliation**\
+:::
+
+\
+
+::: {style="text-align: left"}
+**Dr. Holly Jones** (she/her)\
+**Northern Illinois University**\
+[Website](https://hjones82.wixsite.com/website) \| [Publications](https://scholar.google.com/citations?user=HfrwwugAAAAJ&hl=en&oi=ao) \| [Twitter](https://twitter.com/DocHPJones)
+:::
+
+![](images/holly.jpeg){style="float: left; margin: 0px 15px 0px 0px;" fig-align="left" width="200"}
+
+Dr. Jones is a Professor at Northern Illinois University. Her Evidence-based Restoration Lab studies how ecosystems recover from disturbances and the best ways to restore ecosystems. Her field work has taken her to far-flung islands in the Aleutians and she has current research projects on New Zealand islands and at Nachusa Grasslands in Franklin Grove, Ill.
+
+\
+
+::: {style="text-align: left"}
+**Eva Murillo** (pronouns)\
+**Affiliation**\
+:::
+
+\
+
+::: {style="text-align: left"}
+**Amelia Renner** (she/her)\
+**Chicago Botanic Gardens**\
+[LinkedIn](https://www.linkedin.com/in/ameliarenner/)
+:::
+
+![](images/renner.jpeg){style="float: left; margin: 0px 15px 0px 0px;" fig-alt="headshot of Amelia Renner" fig-align="left" width="200"}
+
+Amelia Renner is a recent graduate of Macalester College. She majored in biology and minored in data science. Her research interests include urban ecology, non-native plant invasion, and restoration ecology. Her current research focuses on the impact of deer on *Alliaria petiolata* (garlic mustard) invasion in Minnesota mesic oak forests.
+
+\
+
+::: {style="text-align: left"}
+**Samantha Rosa** (pronouns)\
+**Affiliation**\
+:::
+
+\
+
+::: {style="text-align: left"}
+**Dr. Evelyn W. Williams** (she/her)\
+**Adaptive Restoration LLC**\
+[LinkedIn](https://www.linkedin.com/in/evelyn-williams-0291b383/) \| [Publications](https://scholar.google.com/citations?user=QU_nQ3MAAAAJ&hl=en)
+:::
+
+![](images/williams.jpeg){style="float: left; margin: 0px 15px 0px 0px;" fig-align="left" width="200"}
+
+Evelyn is a restoration ecologist with a background in conservation genetics. Evelyn first got a taste of natural resource management working at Itasca State Park in Minnesota and as a student at Carleton College working in the Cowling Arboretum. She received her Ph.D. in Botany at the University of Wisconsin -- Madison, where she studied fern genetics and demography in the Upper Peninsula of Michigan. Following that, she worked at the Chicago Botanic Garden on diverse conservation projects, including studying the importance of evolutionary diversity in prairie restorations. She now works for Adaptive Restoration in Mount Horeb, WI, as a restoration ecologist and member of the fire crew.
+
+\

@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs 
+
+website:
+  title: "BRN Website"
+  navbar:
+    background: primary 
+    search: false 
+    left: 
+      - href: index.qmd
+        text: Home
+      - href: networkMembers.qmd 
+        text: "Network Members"
+      - href: research.qmd #change to resources
+        text: Resources #change to resources
+      - href: forum.qmd
+        text: "Forum" 
+      - href: linkingPerspectives.qmd 
+        text: "Research" #outputs ? 
+      
+      # making four pages beyond home page: networkMembers
+      # Research.qmd (bibliography), Forum.qmd, and linkingPerspectives.qmd
+
+format:
+  html:
+    theme: sandstone 
+    css: styles.css
+    toc: true
+    code-fold: true 
+    cold-tools: 
+      toggle: true 
+      source: false
+
+editor: visual
+
