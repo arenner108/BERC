@@ -6,7 +6,7 @@ css: styles.css
 
 #### Name Choice
 
-Why did we chose the name for this website?
+Why did we choose the name for this website?
 
 #### Purpose
 
@@ -39,10 +39,15 @@ Dr. Becky Barak information information information information information info
 \
 
 ::: {style="text-align: left"}
-**Regina Mae Francia** (pronouns)\
-**Affiliation**\
+**Regina Mae Francia (PhD Candidate)** (she/her)\
+**Northern Illinois University**\
 :::
 
+![](images/francia.jpeg){style="float: left; margin: 0px 15px 0px 0px;" fig-alt="headshot of Dr Becky Barak" fig-align="left" width="200"}
+
+My broad research interests include biodiversity, restoration ecology, and environmental justice. I am San Diego native and proud Filipino-American. At UCLA, I received a B.S. in Environmental Science and concentration in Environmental Health and with that research experiences that empowered and motivated me to address widespread ecological destruction. 
+
+For my PhD, I am working on our biodiversity-ecosystem function experiment which was established based on realistic combinations of plant species found at Nachusa Grasslands, a restored tallgrass prairie. For my dissertation, I aim to address 1) how do community changes in diversity (i.e., species richness and functional trait diversity) affect ecosystem function in a restored prairie ecosystem? (2) how does management of restored grasslands such as grazing influence ecosystem function?
 \
 
 ::: {style="text-align: left"}
