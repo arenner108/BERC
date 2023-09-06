@@ -1,6 +1,6 @@
 ---
 title: "Black Earth Restoration Network"
-subtitle: "Short section on what the network/project is, what this website is, etc. "
+subtitle: "Black Earth Restoration Collective (BERC) is a collective of Black, Indigenous, People of Color (BIPOC) restoration scientists and practitioners based in the tri-state area."
 css: styles.css
 ---
 
@@ -10,7 +10,7 @@ Why did we choose the name for this website?
 
 #### Purpose
 
-Maybe we want a little section on what the website is here too? A bit longer than the subtitle above.
+As a collective, we hope to create a supportive and collaborative space for BIPOC researchers and practitioners to collaborate, hold discussions, and host in-person workshops for our community of BIPOC researchers and practitioners. 
 
 #### Our Team
 
