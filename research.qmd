@@ -1,1 +1,6 @@
-RESEARCH / BIBLIOGRAPHY
+---
+title: "Resources"
+css: styles.css
+---
+
+An important goal of the Black Earth Restoration Collective is to create a navigable index of of tallgrass prairie restoration data to assist ecologists in making decisions about these ecosystems. Once completed, the index will be available at this link. 

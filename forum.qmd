@@ -1,1 +1,7 @@
-FORUM
+---
+title: "2024 Forum"
+css: styles.css
+---
+
+The Black Earth Restoration Collective will host a forum in 2024 for network members in Illinois, Wisconsin, and Indiana. Please check back for further details, or see the [Network Members](https://afoxx.github.io/BERC/networkMembers.html) tab for information on joining the Collective. 
+

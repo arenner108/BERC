@@ -1,18 +1,13 @@
 ---
 title: "Black Earth Restoration Network"
-subtitle: "Black Earth Restoration Collective (BERC) is a collective of Black, Indigenous, People of Color (BIPOC) restoration scientists and practitioners based in the tri-state area."
 css: styles.css
 ---
 
-#### Name Choice
+Black Earth Restoration Collective (BERC) is a collective of Black, Indigenous, People of Color (BIPOC) restoration scientists and practitioners based in the tri-state area. As a collective, we hope to create a supportive and collaborative space for BIPOC researchers and practitioners to collaborate, hold discussions, and host in-person workshops for our community of BIPOC researchers and practitioners.
 
-Why did we choose the name for this website?
-
-#### Purpose
-
-As a collective, we hope to create a supportive and collaborative space for BIPOC researchers and practitioners to collaborate, hold discussions, and host in-person workshops for our community of BIPOC researchers and practitioners. 
-
+ 
 #### Our Team
+
 
 ::: {style="text-align: left"}
 **Dr. Alicia Foxx** (she/her)\
@@ -27,33 +22,36 @@ I am a child of the Black community, and I believe in respect, reciprocity, comm
 \
 
 ::: {style="text-align: left"}
-**Dr. Becky Barak**\
+**Dr. Becky Barak** (she/her) \
 **Northwestern University**\
-[Website](BeckyBarak.com) \| Publications \| [ResearchGate](https://www.researchgate.net/profile/Rebecca-Barak)
+[Website](BeckyBarak.com) \| [ResearchGate](https://www.researchgate.net/profile/Rebecca-Barak)
 :::
 
 ![](images/barak.jpeg){style="float: left; margin: 0px 15px 0px 0px;" fig-alt="headshot of Dr Becky Barak" fig-align="left" width="200"}
 
-Dr. Becky Barak information information information information information information information information information information information information information information information information information information information information information information information information information information information information information information information information information information information information information information information information information information .
+Dr. Becky Barak studies biodiversity and restoration in the tallgrass prairie. Her post-doctoral research is focused on seed mix design for restoration from both a social and ecological perspective. Using social science methods, she studies the factors that drive seed mix design for prairie restoration managers. Using ecological data collected though observation and experimentation, she determines how seed mixes become prairies, that is, which planted seeds and species are likely to germinate, emerge and establish in restored prairies.
 
 \
 
 ::: {style="text-align: left"}
-**Regina Mae Francia (PhD Candidate)** (she/her)\
-**Northern Illinois University**\
+**Regina Mae Francia** (she/her)\
+**PhD Candidate, Northern Illinois University**
 :::
 
-![](images/francia.jpeg){style="float: left; margin: 0px 15px 0px 0px;" fig-alt="headshot of Dr Becky Barak" fig-align="left" width="200"}
+![](images/francia.jpeg){style="float: left; margin: 0px 15px 0px 0px;" fig-alt="headshot of Regina Mae Francia" fig-align="left" width="200"}
 
-My broad research interests include biodiversity, restoration ecology, and environmental justice. I am San Diego native and proud Filipino-American. At UCLA, I received a B.S. in Environmental Science and concentration in Environmental Health and with that research experiences that empowered and motivated me to address widespread ecological destruction. 
+My broad research interests include biodiversity, restoration ecology, and environmental justice. I am San Diego native and proud Filipino-American. At UCLA, I received a B.S. in Environmental Science and concentration in Environmental Health and with that research experiences that empowered and motivated me to address widespread ecological destruction.
 
-For my PhD, I am working on our biodiversity-ecosystem function experiment which was established based on realistic combinations of plant species found at Nachusa Grasslands, a restored tallgrass prairie. For my dissertation, I aim to address 1) how do community changes in diversity (i.e., species richness and functional trait diversity) affect ecosystem function in a restored prairie ecosystem? (2) how does management of restored grasslands such as grazing influence ecosystem function? 
-\
+For my PhD, I am working on our biodiversity-ecosystem function experiment which was established based on realistic combinations of plant species found at Nachusa Grasslands, a restored tallgrass prairie. For my dissertation, I aim to address 1) how do community changes in diversity (i.e., species richness and functional trait diversity) affect ecosystem function in a restored prairie ecosystem? (2) how does management of restored grasslands such as grazing influence ecosystem function?
+
+\ 
 
 ::: {style="text-align: left"}
-**Sarah Hollis** (pronouns)\
-**Affiliation**\
+**Sarah Hollis** (she/her) \
+**MS Candidate at Northwestern University**\
 :::
+![](images/hollis.jpeg){fig-align="left" width="200"}
+
 
 \
 
@@ -65,16 +63,10 @@ For my PhD, I am working on our biodiversity-ecosystem function experiment which
 
 ![](images/holly.jpeg){style="float: left; margin: 0px 15px 0px 0px;" fig-align="left" width="200"}
 
-Dr. Jones is a Professor at Northern Illinois University. Her Evidence-based Restoration Lab studies how ecosystems recover from disturbances and the best ways to restore ecosystems. Her field work has taken her to far-flung islands in the Aleutians and she has current research projects on New Zealand islands and at Nachusa Grasslands in Franklin Grove, Ill.
+I am a Professor at Northern Illinois University. My Evidence-based [Restoration Lab](https://hjones82.wixsite.com/website) studies how ecosystems recover from disturbances and the best ways to restore ecosystems. My field work has taken her to far-flung islands in the Aleutians and I have current research projects on New Zealand islands and at Nachusa Grasslands in Franklin Grove, Ill. I am passionate about social justice, diversity, equity, and inclusion (DEI) in STEM fields, and specifically restoration and conservation. I co-founded our department's DEI committee and our university's Anti-racism Collective to help achieve those goals.
 
 \
 
-::: {style="text-align: left"}
-**Eva Murillo** (pronouns)\
-**Affiliation**\
-:::
-
-\
 
 ::: {style="text-align: left"}
 **Amelia Renner** (she/her)\
@@ -88,12 +80,16 @@ Amelia Renner is a recent graduate of Macalester College. She majored in biology
 
 \
 
-::: {style="text-align: left"}
-**Samantha Rosa** (pronouns)\
-**Affiliation**\
-:::
+\ 
 
-\
+::: {style="text-align: left"}
+**Samantha Rosa** (she/her)\
+**MS Candidate at Northwestern University**\
+:::
+![](images/rosa.jpeg){fig-align="left" width="200"}
+
+\ 
+
 
 ::: {style="text-align: left"}
 **Dr. Evelyn W. Williams** (she/her)\

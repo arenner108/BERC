@@ -9,15 +9,15 @@ website:
     search: false 
     left: 
       - href: index.qmd
-        text: Home
+        text: "Home"
       - href: networkMembers.qmd 
         text: "Network Members"
       - href: research.qmd #change to resources
-        text: Resources #change to resources
+        text: "Resources" #change to resources
       - href: forum.qmd
         text: "Forum" 
       - href: linkingPerspectives.qmd 
-        text: "Research" #outputs ? 
+        text: "Perspective Pieces" #outputs ? 
       
       # making four pages beyond home page: networkMembers
       # Research.qmd (bibliography), Forum.qmd, and linkingPerspectives.qmd

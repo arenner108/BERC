@@ -1,1 +1,6 @@
-LINKING PERSPECTIVES
+---
+title: "Perspective Pieces"
+css: styles.css
+---
+
+The first Perspective Piece from the Black Earth Restoration Collective is currently in review. 
