@@ -24,7 +24,7 @@ I am a child of the Black community, and I believe in respect, reciprocity, comm
 ::: {style="text-align: left"}
 **Dr. Becky Barak** (she/her) \
 **Northwestern University**\
-[Website](BeckyBarak.com) \| [ResearchGate](https://www.researchgate.net/profile/Rebecca-Barak)
+[Website](https://www.beckybarak.com/) \| [ResearchGate](https://www.researchgate.net/profile/Rebecca-Barak)
 :::
 
 ![](images/barak.jpeg){style="float: left; margin: 0px 15px 0px 0px;" fig-alt="headshot of Dr Becky Barak" fig-align="left" width="200"}
@@ -50,7 +50,8 @@ For my PhD, I am working on our biodiversity-ecosystem function experiment which
 **Sarah Hollis** (she/her) \
 **MS Candidate at Northwestern University**\
 :::
-![](images/hollis.jpeg){fig-align="left" width="200"}
+![](images/hollis.jpeg){style="float: left; margin: 0px 15px 0px 0px;" fig-alt="headshot of Regina Mae Francia" fig-align="left" width="200"}
+Sarah is a Master’s student studying Plant Biology and Conservation at Northwestern University and the Chicago Botanic Garden and a Research Assistant at the Dixon National Tallgrass Prairie Seed Bank. She graduated with a B.S.A. in Neuroscience from the University of Texas at Austin in 2021. Her honors thesis, Galápagos’ Blackberry Problem: A Novel Approach to Rubus niveus Management in the Galápagos Islands, examined the status of invasive species Rubus niveus in the Galápagos Islands and proposed support for local agricultural systems as a means of mitigating its impact. Sarah is a citizen of the Cherokee Nation. In her free time, she enjoys making ceramics and reading science fiction.
 
 
 \
